@@ -1,6 +1,6 @@
-This is the dataset of paper"The First Comprehensive Dataset with Multiple Distortion Types for Visual Just-Noticeable Differences".
+This is the dataset of the paper"The First Comprehensive Dataset with Multiple Distortion Types for Visual Just-Noticeable Differences".
 Please cite our paper if you use it in your works.
-
+Dataset can be downloaded from: https://drive.google.com/file/d/14sy2k5SXNDkrFCZIf-oQ7tVSSQsdjbnT/view
 
 ref_img folder contains 106 reference images.
 jnd_img folder contains 1,642 distortion images with a total of 25 distortion types as follows:
