@@ -1,4 +1,4 @@
-This is the dataset of the paper"The First Comprehensive Dataset with Multiple Distortion Types for Visual Just-Noticeable Differences".
+This is the dataset of the paper "The First Comprehensive Dataset with Multiple Distortion Types for Visual Just-Noticeable Differences".
 Please cite our paper if you use it in your works.
 The dataset can be downloaded from: https://drive.google.com/file/d/14sy2k5SXNDkrFCZIf-oQ7tVSSQsdjbnT/view
 
